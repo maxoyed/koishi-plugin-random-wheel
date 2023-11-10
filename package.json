@@ -9,13 +9,41 @@
     "dist"
   ],
   "license": "MIT",
+  "author": {
+    "name": "maxoyed",
+    "email": "maxoyed@gmail.com",
+    "url": "https://github.com/maxoyed"
+  },
+  "contributors": [
+    "maxoyed <maxoyed@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxoyed/koishi-plugin-random-wheel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxoyed/koishi-plugin-random-wheel/issues"
+  },
+  "homepage": "https://github.com/maxoyed/koishi-plugin-random-wheel#readme",
   "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "random",
+    "wheel"
   ],
   "peerDependencies": {
     "koishi": "^4.15.4"
+  },
+  "koishi": {
+    "description": {
+      "en": "Random Wheel",
+      "zh": "幸运转盘"
+    },
+    "service": {},
+    "locales": [
+      "zh"
+    ]
   }
 }
