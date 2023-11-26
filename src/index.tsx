@@ -1,6 +1,7 @@
 import { Context, Schema, Random } from "koishi";
 
 export const name = "random-wheel";
+export const reusable = true;
 
 export interface Config {
   TITLE: string;
