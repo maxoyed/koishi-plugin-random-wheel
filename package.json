@@ -1,7 +1,7 @@
 {
   "name": "@maxoyed/koishi-plugin-random-wheel",
   "description": "可自定义选项的转盘",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -25,7 +25,6 @@
     "url": "https://github.com/maxoyed/koishi-plugin-random-wheel/issues"
   },
   "homepage": "https://github.com/maxoyed/koishi-plugin-random-wheel#readme",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
